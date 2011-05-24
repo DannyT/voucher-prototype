@@ -1,7 +1,0 @@
-C:\development\voucher-prototype\VoucherPrototype\VoucherPrototype\bin\VoucherPrototype.dll
-C:\development\voucher-prototype\VoucherPrototype\VoucherPrototype\bin\VoucherPrototype.pdb
-C:\development\voucher-prototype\VoucherPrototype\VoucherPrototype\bin\EntityFramework.dll
-C:\development\voucher-prototype\VoucherPrototype\VoucherPrototype\bin\EntityFramework.xml
-C:\development\voucher-prototype\VoucherPrototype\VoucherPrototype\obj\Debug\ResolveAssemblyReference.cache
-C:\development\voucher-prototype\VoucherPrototype\VoucherPrototype\obj\Debug\VoucherPrototype.dll
-C:\development\voucher-prototype\VoucherPrototype\VoucherPrototype\obj\Debug\VoucherPrototype.pdb

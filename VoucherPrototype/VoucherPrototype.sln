@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoucherPrototype", "VoucherPrototype\VoucherPrototype.csproj", "{329A6B60-E62F-407D-AEDE-35B54A0B1A3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoucherPrototype.Data", "VoucherPrototype.Data\VoucherPrototype.Data.csproj", "{56F94633-BE59-4E74-85F5-47456535BA38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{329A6B60-E62F-407D-AEDE-35B54A0B1A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{329A6B60-E62F-407D-AEDE-35B54A0B1A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{329A6B60-E62F-407D-AEDE-35B54A0B1A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F94633-BE59-4E74-85F5-47456535BA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F94633-BE59-4E74-85F5-47456535BA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F94633-BE59-4E74-85F5-47456535BA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F94633-BE59-4E74-85F5-47456535BA38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
